@@ -3,3 +3,4 @@
 
 👯 Il a été réalisé en groupe, dans le cadre de la formation de <a href="https://datascientest.com/formation-data-analyst)" target="blank">Data Analyse</a>  avec <a href="https://datascientest.com/)" target="blank">DataScientest</a>  👯 
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://<https://datajobs-2020-app.streamlit.app/>.streamlit.app)
